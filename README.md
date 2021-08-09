@@ -6,6 +6,6 @@
 - 📫 Linkedin: https://www.linkedin.com/in/tandy-almeida-de-souza/
 - Email: tandyfw@gmail.com
 - Tecnologias: HTML, CSS, Javascript, React
-- Portfólio: https://tandyfw.github.io/
+- Portfólio em desenvolvimento
 
 Todos os repositórios são de exercícios propostos pela Trybe e alguns conteúdos extras para praticar o que estou aprendendo.
