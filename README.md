@@ -1,4 +1,4 @@
-<h1>Github - Perfil estudante Desenvolvedor Web Fullstack</h1>
+<h1>Desenvolvedor Web Fullstack</h1>
 <h3>Formado em Análise e Desenvolvimento de Sistemas e atualmente estudando na TRYBE</h3>
 
 - 🔭 Atuamente procurando um emprego como desenvolvedor júnior, frontend, backend ou fullstack.
